@@ -1,4 +1,4 @@
-window.addEventListener('DM=omContendloaded', (event) =>{
+window.addEventListener('DOMContendloaded', (event) =>{
     getVisitCount();
 })
 
