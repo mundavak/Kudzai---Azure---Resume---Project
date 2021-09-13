@@ -54,7 +54,7 @@ header .banner {
    width: 85%;
    padding-bottom: 30px;s
    text-align: center;
-}
+};
 
 header .banner-text { width: 100%; }
 header .banner-text h1 {
@@ -73,7 +73,7 @@ header .banner-text h3 {
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
-   color: #fff;
+   color: rgb(154, 10, 10);
 }
 header .banner-text hr {
    width: 60%;
