@@ -6,4 +6,5 @@ My Personal Azure Resume Project - Creating an Azure hosted website as part of s
 -main.js contains visitor counter code using java script
 -created azure function using azure tools in visual studio code
 -Pointed the index.html file to main.js to get the counter attached to the website
--Currently trying to get website working with Azure Function. The function works but the site is not taking the counts
+-Currently trying to get website working with Azure Function. The function works but the site is showing the count.
+  -this is due to CORs, I have updated the CORs of the function to allow the URL to access the function yet the issue persists
